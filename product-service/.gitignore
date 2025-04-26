@@ -9,4 +9,4 @@ coverage
 *.zip
 *.tar.gz
 
-data-mongo/data
+src/data-mongo/data
